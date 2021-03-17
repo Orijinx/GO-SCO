@@ -1,9 +1,9 @@
 # Gorijinx
 Gorijinx - это микрофреймворк реализованный на языке Golang.
-##Поставки
+## Поставки
 - Под капотом находится сервер Mux ([github.com/gorilla/mux](http://github.com/gorilla/mux))
 - Гибкая настройка с Godotenv ([github.com/joho/godotenv](http://github.com/joho/godotenv))
-- Поставляется совместо с CLI-Gori
+- Поставляется совместно с CLI-Gori
 ## Getting started
 В _main.go_ находится запуск сервера и рутинг нашего приложения.
 ```go
